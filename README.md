@@ -1,7 +1,7 @@
 # C++を利用したCUIゲーム
 
 # ゲーム画面
-![ゲーム画面](http://i.imgur.com/Jjwsc.jpg "サンプル")
+![ゲーム画面](/picture.png "サンプル")
 
 # 詳細説明
 
